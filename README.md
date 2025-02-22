@@ -44,5 +44,7 @@ Python 3.x
 SQLite3
 
 plyer (for notifications)
+
+
 ![image](https://github.com/user-attachments/assets/58b0a34d-54dc-44e0-a31a-98072d5b126a)
 
